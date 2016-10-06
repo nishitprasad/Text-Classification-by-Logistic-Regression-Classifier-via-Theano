@@ -1,6 +1,8 @@
 # Text-Classification-by-Logistic-Regression-Classifier-via-Theano
 Text Classification using Logistic Regression Classifier via Theano toolkit
 
+A Machine Learning concept.
+
 Here, we have used two dataset files namely positive.review and negative.review. Both positive review and negative review act as respective classes, hence, the categories.
 
 Each file (positive.review and negative.review) contains words followed by the frequency. Each line in each file represents a reviewed document containing related words and frequencies. Each line gets over with either #label:#positive or #label:negative.

@@ -15,10 +15,10 @@ The Logistic Regression Classifier divides the files into two two datasets namel
 
 This probabilistic approach of training and testing is done using Theano toolkit that does the softmax() and argmax().
 
-The following are the files:
+The following are the implementation files:
 
-sentiment_reader.py      : This file takes the files as input, parses and makes the train and test datasets.
+**sentiment_reader.py**      : This file takes the files as input, parses and makes the train and test datasets.
 
-lr.py             : This file takes datasets as input and calculates the Precision, Recall, Accuracy and F1 score.
+**lr.py**             : This file takes datasets as input and calculates the Precision, Recall, Accuracy and F1 score.
 
-run_classifier.py : This file contains main function that runs the LR classifier (Logistic Regression Classifier)
+**run_classifier.py** : This file contains main function that runs the LR classifier (Logistic Regression Classifier)
